@@ -1,0 +1,203 @@
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\UI.exe.config
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\UI.exe
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\UI.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\BE.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\BL.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\DAL.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\DS.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\MahApps.Metro.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\BE.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\BL.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\DAL.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\DS.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\MahApps.Metro.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\MahApps.Metro.xml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\Resources\Icons.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\HeaderListView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\AddressView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\BankAccountView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ContractView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ContractsView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployeeView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployersView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployeesView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployerView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ErrorMessagesView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\HeaderListView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\MainWindow.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\SpecializationsView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\SpecializationView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\App.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\App.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\AddressView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\BankAccountView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ContractView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ContractsView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployeeView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployersView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployeesView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployerView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ErrorMessagesView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\MainWindow.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\SpecializationsView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\SpecializationView.baml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.g.resources
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.exe
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\GeneralView.g.cs
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\GeneralView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\UI.exe.config
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.exe
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\UI.exe
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\UI.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\BE.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\BL.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\DAL.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\DS.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\MahApps.Metro.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\BE.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\BL.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\DAL.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\DS.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\MahApps.Metro.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\MahApps.Metro.xml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\Resources\Icons.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\HeaderListView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\AddressView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\BankAccountView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ContractView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ContractsView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployeeView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployersView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployeesView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployerView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ErrorMessagesView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\GeneralView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\HeaderListView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\MainWindow.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\SpecializationsView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\SpecializationView.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\App.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\App.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\AddressView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\BankAccountView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ContractView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ContractsView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployeeView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployersView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployeesView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\EmployerView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\ErrorMessagesView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\GeneralView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\MainWindow.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\SpecializationsView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\View\SpecializationView.baml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.g.resources
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\UI.exe.config
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\UI.exe
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\UI.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\UI.exe
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\UI.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\BE.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\BL.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\DAL.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\DS.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\MahApps.Metro.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\BE.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\BL.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\DAL.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\DS.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\MahApps.Metro.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\MahApps.Metro.xml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\Resources\Icons.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\HeaderListView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\AddressView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\BankAccountView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\ContractView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\ContractsView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\EmployeeView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\EmployersView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\EmployeesView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\EmployerView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\ErrorMessagesView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\GeneralView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\HeaderListView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\MainWindow.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\SpecializationsView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\SpecializationView.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\App.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\App.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\AddressView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\BankAccountView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\ContractView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\ContractsView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\EmployeeView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\EmployersView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\EmployeesView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\EmployerView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\ErrorMessagesView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\GeneralView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\MainWindow.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\SpecializationsView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\View\SpecializationView.baml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\UI.g.resources
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\UI\obj\Debug\UI.csproj.GenerateResource.Cache

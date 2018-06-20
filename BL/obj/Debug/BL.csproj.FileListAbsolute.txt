@@ -1,0 +1,41 @@
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\BL.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\BL.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\BE.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\DAL.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\DS.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\BE.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\DAL.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\DS.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\obj\Debug\BL.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\obj\Debug\BL.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\BL.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\BL.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\BE.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\DAL.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\DS.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\BE.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\DAL.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\DS.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\obj\Debug\BL.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\BL\obj\Debug\BL.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\BL.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\BL.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\BE.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\DAL.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\DS.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\BE.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\DAL.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\DS.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\obj\Debug\BL.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\BL\obj\Debug\BL.pdb

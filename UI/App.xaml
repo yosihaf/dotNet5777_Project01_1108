@@ -1,0 +1,57 @@
+<Application x:Class="UI.App" 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             StartupUri="MainWindow.xaml" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             d1p1:Ignorable="d" 
+             xmlns:d1p1="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:UI.ViewModel"
+             xmlns:Convertors="clr-namespace:UI.Convertors">
+  <Application.Resources>
+    <ResourceDictionary>
+      <ResourceDictionary.MergedDictionaries>
+        <!-- MahApps.Metro resource dictionaries. Make sure that all file names are Case Sensitive! -->
+        <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml">
+        </ResourceDictionary>
+        <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml">
+        </ResourceDictionary>
+        <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml">
+        </ResourceDictionary>
+        <!-- Accent and AppTheme setting -->
+        <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml">
+        </ResourceDictionary>
+        <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml">
+        </ResourceDictionary>
+
+                <ResourceDictionary Source="Resources\Icons.xaml" >
+                </ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+            <!-- App varibales -->
+
+            <vm:ViewModelLocator x:Key="ViewModelLocator" d:IsDataSource="True"  />
+            <vm:ViewMode x:Key="Edit">Edit</vm:ViewMode>
+            <vm:ViewMode x:Key="View">View</vm:ViewMode>
+            <vm:ViewMode x:Key="Add">Add</vm:ViewMode>
+            <vm:ViewMode x:Key="EditOrAdd">EditOrAdd</vm:ViewMode>
+            <Convertors:ConvertBoolToVisibility   x:Key="BoolToVisibility"></Convertors:ConvertBoolToVisibility>
+            <Convertors:ConvertViewModeVisablity   x:Key="ViewModeToVisablity"></Convertors:ConvertViewModeVisablity>
+            <Convertors:ConvertViewModeBool   x:Key="ViewModeToBool"></Convertors:ConvertViewModeBool>
+            <Convertors:ConvertCompanyOrPerson   x:Key="CompanyOrPerson"></Convertors:ConvertCompanyOrPerson>
+            <Convertors:ConvertIsCompanyToVisibility   x:Key="IsCompanyToVisablity"></Convertors:ConvertIsCompanyToVisibility> 
+            <Style x:Key="input" TargetType="Control" >
+                <Setter Property="Width" Value="200px"/>
+                <Setter Property="Margin" Value="4px" />
+                <Setter Property="Height" Value="30px" />
+            </Style>
+            <Style x:Key="textBlock" TargetType="TextBlock" >
+                <Setter Property="Width" Value="200px"/>
+                <Setter Property="Margin" Value="4px" />
+                <Setter Property="Height" Value="30px" />
+            </Style>
+            <Style x:Key="Header"  TargetType="Control">
+                <Setter Property="FontSize" Value="18px"/>
+             
+            </Style>
+        </ResourceDictionary>
+  </Application.Resources>
+</Application>

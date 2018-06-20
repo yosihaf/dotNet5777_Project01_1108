@@ -1,0 +1,108 @@
+﻿<UserControl x:Class="UI.View.SpecializationsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:View="clr-namespace:UI.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <View:HeaderListView Height="50px" AddCommand="{Binding AddCommand}" SearchCommand="{Binding SearchCommand}"/>
+        <Label Grid.Row="1" Foreground="Red" Content="{Binding Message}"></Label>
+        <DataGrid Name="MyDataGrid"  
+                  Grid.Row="2" 
+                  ItemsSource="{Binding Collection}" 
+                  Margin="8"
+                  HorizontalAlignment="Center"
+                  HorizontalContentAlignment="Stretch"
+                  VerticalAlignment="Stretch" 
+                  SelectionMode="Extended"
+                  IsReadOnly="True"   
+                  AutoGenerateColumns="False">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn  Binding="{Binding Name}" Header="Employee Name"  />
+                <DataGridTextColumn  Binding="{Binding ID}" Header="Employer Name" />
+                <DataGridTextColumn  Binding="{Binding MinHourSalary}" Header="Min Hour Salary" />
+                <DataGridTextColumn  Binding="{Binding MaxHourSalary}" Header="Max Hour Salary" />
+                <DataGridTemplateColumn Header="Options">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Style="{StaticResource MetroCircleButtonStyle}"
+                                        Height="40px"
+                                        Width="40px"
+                                        CommandParameter="{Binding ID}"
+                                        Command="{Binding RelativeSource={RelativeSource AncestorType=UserControl}, Path=DataContext.RemoveCommand}">
+                                    <Button.Content>
+                                        <Rectangle Width="20" Height="20">
+                                            <Rectangle.Fill>
+                                                <VisualBrush Visual="{StaticResource appbar_close}" Stretch="None" />
+                                            </Rectangle.Fill>
+                                        </Rectangle>
+                                    </Button.Content>
+                                </Button>
+                                <Button Style="{StaticResource MetroCircleButtonStyle}"
+                                        Height="40px"
+                                        Width="40px"
+                                        CommandParameter="{Binding ID}"
+                                        Command="{Binding RelativeSource={RelativeSource AncestorType=UserControl}, Path=DataContext.EditCommand}">
+                                    <Button.Content>
+                                        <Rectangle Width="30" Height="30">
+                                            <Rectangle.Fill>
+                                                <VisualBrush Visual="{StaticResource appbar_edit}" Stretch="None" />
+                                            </Rectangle.Fill>
+                                        </Rectangle>
+                                    </Button.Content>
+                                </Button>
+                                <Button Style="{StaticResource MetroCircleButtonStyle}"
+                                        Height="40px"
+                                        Width="40px"
+                                        CommandParameter="{Binding ID}"
+                                        Command="{Binding RelativeSource={RelativeSource AncestorType=UserControl}, Path=DataContext.ViewCommand}">
+                                    <Button.Content>
+                                        <Rectangle Width="20" Height="20">
+                                            <Rectangle.Fill>
+                                                <VisualBrush Visual="{StaticResource appbar_eye}" Stretch="None" />
+                                            </Rectangle.Fill>
+                                        </Rectangle>
+                                    </Button.Content>
+                                </Button>
+
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DockPanel Name="ContentContract"  Grid.RowSpan="2" 
+                   Visibility="{Binding IsShowItem, 
+                                        Converter={StaticResource BoolToVisibility}}" 
+                   Grid.Row="0" 
+                   Background="#B2000000" >
+            <StackPanel Margin="8px" DockPanel.Dock="Bottom" Orientation="Horizontal" FlowDirection="RightToLeft">
+                <Button Margin="8px" Width="100px" Style="{StaticResource AccentedSquareButtonStyle}"
+                    Visibility="{Binding Mode, 
+                                        Converter={StaticResource ViewModeToVisablity}, 
+                                        ConverterParameter={StaticResource Add}}" 
+                        Command="{Binding SaveCommand}">Save</Button>
+                <Button Margin="8px" Width="100px" Style="{StaticResource AccentedSquareButtonStyle}" 
+                    Visibility="{Binding Mode, 
+                                        Converter={StaticResource ViewModeToVisablity}, 
+                                        ConverterParameter={StaticResource Edit}}"  
+                        Command="{Binding UpdateCommand}">Update</Button>
+                <Button Margin="8px" Width="100px" Style="{DynamicResource SquareButtonStyle}" 
+                        Command="{Binding CloseCommand}">Close</Button>
+            </StackPanel>
+            <View:SpecializationView Width="500px" Margin="0,40px" x:Name="contractView" Background="White"   DataContext="{Binding SelectedItemVM}"/>
+        </DockPanel>
+    </Grid>
+</UserControl>
+
+

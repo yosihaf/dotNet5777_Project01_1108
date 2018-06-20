@@ -1,0 +1,28 @@
+C:\Users\AAA\Downloads\dotNet5777_Project01_3613_1108\dotNet5777_Project01_3613_1108\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\AAA\Downloads\dotNet5777_Project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\DS.dll
+C:\Users\AAA\Downloads\dotNet5777_Project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\DS.pdb
+C:\Users\AAA\Downloads\dotNet5777_Project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\BE.dll
+C:\Users\AAA\Downloads\dotNet5777_Project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\BE.pdb
+C:\Users\AAA\Downloads\dotNet5777_Project01_3613_1108\dotNet5777_Project01_3613_1108\DS\obj\Debug\DS.dll
+C:\Users\AAA\Downloads\dotNet5777_Project01_3613_1108\dotNet5777_Project01_3613_1108\DS\obj\Debug\DS.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\DS.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\DS.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\BE.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\BE.pdb
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\obj\Debug\DS.dll
+C:\Users\AAA\Documents\shituf\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\obj\Debug\DS.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\DS.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\DS.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\BE.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\bin\Debug\BE.pdb
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\obj\Debug\DS.dll
+C:\Users\AAA\OneDrive - g.jct.ac.il\יוסי\מיני פרוייקט חלונות\dotnet5777_project01_3613_1108\dotnet5777_project01_3613_1108\dotNet5777_Project01_3613_1108\DS\obj\Debug\DS.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\DS\bin\Debug\DS.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\DS\bin\Debug\DS.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\DS\bin\Debug\BE.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\DS\bin\Debug\BE.pdb
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\DS\obj\Debug\DS.dll
+C:\Users\AAA\dotnet5777_project01_3613_1108\dotNet5777_Project01_1108\DS\obj\Debug\DS.pdb
